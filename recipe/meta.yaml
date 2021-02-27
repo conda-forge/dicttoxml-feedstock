@@ -11,7 +11,7 @@ source:
 
 build:
   noarch: python
-  number: 1
+  number: 2
   script: python -m pip install --no-deps --ignore-installed .
 
 requirements:
@@ -38,3 +38,4 @@ about:
 extra:
   recipe-maintainers:
     - johanneskoester
+    - jan-janssen
