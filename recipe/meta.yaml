@@ -8,6 +8,8 @@ source:
   fn: dicttoxml-{{ version }}.tar.gz
   url: https://pypi.io/packages/source/d/dicttoxml/dicttoxml-{{ version }}.tar.gz
   sha256: c26345479d514ea972d01bf0970e537aa7c9aacf170309107c68252d407df4e6
+  patches:
+    - collections.patch
 
 build:
   noarch: python
