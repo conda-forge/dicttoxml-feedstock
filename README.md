@@ -3,11 +3,11 @@ About dicttoxml
 
 Home: https://github.com/quandyfactory/dicttoxml
 
-Package license: GPL-2.0
+Package license: GPL-2.0-only
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/dicttoxml-feedstock/blob/main/LICENSE.txt)
 
-Summary: Converts a Python dictionary or other native data type into a valid XML string. 
+Summary: Converts a Python dictionary or other native data type into a valid XML string.
 
 Development: https://github.com/quandyfactory/dicttoxml
 
