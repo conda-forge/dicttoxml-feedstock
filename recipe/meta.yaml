@@ -1,4 +1,4 @@
-{% set version = "1.7.11" %}
+{% set version = "1.7.12" %}
 
 package:
   name: dicttoxml
@@ -7,7 +7,7 @@ package:
 source:
   fn: dicttoxml-{{ version }}.tar.gz
   url: https://pypi.io/packages/source/d/dicttoxml/dicttoxml-{{ version }}.tar.gz
-  sha256: 18894c2d87373bce13729580de638a39fabd619219bccd8d85cde3744de45273
+  sha256: 4857288a9266f6f208b71f4a4ade4be043b136dc7f9e5dfc28c8002aba4157e7
 
 build:
   noarch: python
